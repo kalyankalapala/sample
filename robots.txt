@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Sitemap: http://prasanthinagar.com/sitemap.xml
+
